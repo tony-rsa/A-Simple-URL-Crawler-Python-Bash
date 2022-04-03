@@ -1,4 +1,5 @@
 import click
+from simple_url_crawler_cli.cli.commands import *
 
 
 @click.command()
